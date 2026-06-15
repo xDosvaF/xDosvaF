@@ -1,16 +1,33 @@
-## Hi there 👋
+# xDosva
 
-<!--
-**xDosvaF/xDosvaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+────────────────────────────────────
 
-Here are some ideas to get you started:
+Sometimes coding.
+Sometimes debugging.
+Always awake at 2AM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────────────
+```
+
+```bash
+OS       : Arch Linux
+Editor   : VS Code
+Shell    : Bash
+Theme    : Dark
+Mood     : Cyber Melancholy
+```
+
+### Stack
+
+HTML • CSS • JavaScript • Python • SQL • .NET
+
+### Current Status
+
+```txt
+[■■■■■■■■□□] Learning
+[■■■■■■■□□□] Sleeping
+[■■■■■■■■■■] Customizing Linux
+```
+
+> I use arch, btw.
