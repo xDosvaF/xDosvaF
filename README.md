@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=4F6FFF&center=true&vCenter=true&width=500&lines=Esteban+Godoy;Arch+Linux+Enjoyer;Backend+%26+Frontend+Developer;Roblox+Developer;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=4F6FFF&center=true&vCenter=true&width=500&lines=xDosva;Arch+Linux+Enjoyer;Backend+%26+Frontend+Developer;Roblox+Developer;Always+Learning..." />
 
 </div>
 
@@ -9,7 +9,7 @@
 ```bash
 $ whoami
 
-Name      : Esteban
+Name      : xDosva
 Location  : Guatemala
 OS        : Arch Linux
 Editor    : VS Code
